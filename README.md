@@ -28,8 +28,4 @@ You can open the **Product Page** by clicking on the banner image on the **Home 
 ## Purpose
 This project demonstrates front-end development skills by creating a UI inspired by Myntra’s e-commerce platform.
 
-## Installation
-1. Clone the repository:  
-   ```bash
-   git clone https://github.com/yourusername/myntra-clone.git
 
